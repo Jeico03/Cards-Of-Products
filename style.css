@@ -5,6 +5,7 @@
 }
 
 body {
+  height: 100%;
   font-family: Arial, sans-serif;
   background: linear-gradient(135deg, #121212, #0077FF);
   text-align: center;
